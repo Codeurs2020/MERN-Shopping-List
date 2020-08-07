@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://Hejer:hejer123@cluster0-shard-00-00.egq0o.mongodb.net:27017,cluster0-shard-00-01.egq0o.mongodb.net:27017,cluster0-shard-00-02.egq0o.mongodb.net:27017/mern_shopping-list?ssl=true&replicaSet=atlas-36go65-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "my_shopping_list_secret"
+}
