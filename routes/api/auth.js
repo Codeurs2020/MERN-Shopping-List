@@ -47,7 +47,7 @@ router.post('/login', (req, res) => {
   });
 });
 
-//@route   GET api/user
+//@route   GET api/auth/user
 // @desc   Get User Data
 // @access  Private
 router.get('/user', auth, (req, res) => {
